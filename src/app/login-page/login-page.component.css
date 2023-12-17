@@ -34,3 +34,21 @@
     top: 190px;
     z-index: 3;
 }
+.login-form-input
+{
+    height: 50px;
+    border-radius: 8px;
+}
+.passwordInputDiv i{
+    font-size: 20px;
+    position: absolute;
+    padding: 15px;
+    margin-left: 300px;
+}
+.passwordInputDiv p{
+    color: #0861af;
+    font-size: 14px;
+    padding-top: 4px;
+    text-align: end;
+    font-family: "Courier New, monospace";
+}
